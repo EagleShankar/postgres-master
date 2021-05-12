@@ -1,7 +1,7 @@
 app:
     name: Postgres Master
     code: POSTGRES
-    notify: appzdev@cloudbourne.co
+    notify: shankar@eagleconsulting.co.in
     
 build:
     version: 12.2
